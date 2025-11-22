@@ -1,2 +1,1 @@
-# beattyga.github.io
-my first github page
+# Minecraft is cool
